@@ -1,0 +1,36 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.json-input textarea {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.error {
+  color: red;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.options label {
+  margin-right: 10px;
+}
+
+.response h3 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
